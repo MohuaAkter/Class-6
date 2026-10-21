@@ -1,0 +1,17 @@
+/* Common CSS Start  */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+
+.header {
+    background: teal;
+    padding: 100px 0;
+}
